@@ -1,0 +1,45 @@
+- Introducción GIT
+
+- estados de un archivo
+	- Untracked
+	- Tracked
+	- Staged
+	- Unstaged
+
+- comandos mover archivos entre estados
+
+- que es un branch y como funciona un Merge
+
+- crear repositorio GIT y primer commit
+	- comandos
+	- configurar usuario
+
+- analizar cambios en los archivos
+
+- Guaradr cambios que aun no estan listos
+	- git stash
+
+- volver en el tiempo en el repositorio
+	- git checkout
+
+- GIT reset y GIT rm
+
+- flujo de trabajo con un repositorio remoto
+	- git clone
+	- git push
+	- git fetch
+	- git merge
+	- git pull
+
+- introducción a branches
+	- git log
+	- git show
+
+- solución de conflictos
+
+- Gitlab
+	- versionamiento semantico
+	- change log
+	- readme
+	- Merge request
+	- Consejos y buenas practicas con commits y manejo de ramas
