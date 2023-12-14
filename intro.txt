@@ -47,4 +47,15 @@
 
 -------------
 
+git reset . (inverso de git add .)
+git checkout -- . (estado original del archivo)
+git commit --amend (cambiar texto del commit desde vim)
+
+
+----------------
+
+https://www.makeareadme.com/
+
+-------------
+
 mi segundo cambio
